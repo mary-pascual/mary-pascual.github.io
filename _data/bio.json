@@ -24,25 +24,12 @@
         "network": "linkedin",
         "username": "mekp",
         "url": "http://www.linkedin.com/in/mary-pascual-a75ba8132"
-      },
-      {
-        "network": "email",
-        "username": "mekp@hawaii.edu",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "IT, Security, Writing",
-      "keywords": [
-        ""
-      ]
+      "name": "IT, Security, Writing"
     }
   ],
   "skills": [
