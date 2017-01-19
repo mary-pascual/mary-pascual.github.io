@@ -70,6 +70,33 @@
       "position": "Lab Monitor",
       "startDate": "June 2016",
       "endDate": "Present",
+      "highlights": [
+        "Help students with issues they face when using the library computers"
+      ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "New Hope Christian Fellowship",
+      "website": "http://enewhope.org",
+      "position": "Sunday School Assistant",
+      "startDate": "August 2014",
+      "endDate": "Present",
+      "summary": "Assist the Sunday School teachers for three to four years",
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2016",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Finished the semester with a 3.5 gpa or above with twelve or more credits"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
 }
