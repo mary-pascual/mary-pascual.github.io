@@ -26,8 +26,8 @@
         "url": "http://www.linkedin.com/in/mary-pascual-a75ba8132"
       },
       {
-        "network": "",
-        "username": "",
+        "network": "email",
+        "username": "mekp@hawaii.edu",
         "url": ""
       },
       {
@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "IT, Security, Writing",
       "keywords": [
         ""
       ]
@@ -57,11 +57,10 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "Beginner",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Java",
-        "Javascript"
+        ""
       ]
     },
     {
@@ -93,28 +92,26 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "",
+      "website": "",
+      "position": t"Software Developer",
       "startDate": "2016-01-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
