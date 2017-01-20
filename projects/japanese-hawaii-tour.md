@@ -3,11 +3,11 @@ layout: project
 type: project
 image: images/Waikiki_Trolley_(34874).png
 title: A Look of Hawaii for Japanese Tourists
-permalink: projects
+permalink: projects/hawaii-tour
 date: 2015
 summary: A tour of Hawaii for the Japanese tourists.
 ---
-<img class="ui image" src="mary-pascual.github.io/images/91601886 (1).png">
+<img class="ui image" src="https://mary-pascual.github.io/images/91601886 (1).png">
 
 For this project, I was required to have an oral presentation on which I would pretend to describe to the Japanese tourists the itinerary of the tour of Hawaii.  I was required to pick three different places and to bring up two facts about each place.  I would also have to have a brochure to pass out to the tourists.  In the end, I would need to be prepared to answer any questions the "tourists" would have about the events that would take place.
 
