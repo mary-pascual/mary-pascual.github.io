@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/flag-day.jpg
+image: images/flag-day.png
 title: Policy Memo for Mental Illness Issue
 permalink: projects
 date: 2016
