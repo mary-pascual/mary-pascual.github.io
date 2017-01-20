@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: http://mary-pascual.github.io/images/flag-day.jpg
+image: images/flag-day.jpg
 title: Policy Memo for Mental Illness Issue
 permalink: projects
 date: 2016
