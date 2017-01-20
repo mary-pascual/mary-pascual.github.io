@@ -7,7 +7,7 @@ permalink: projects
 date: 2014
 summary: Research on the courtships of a Salticidae.
 ---
-<img class="ui image" src="mary-pascual.github.io/images/57cf081d180000b429bcf90c.png">
+<img class="ui image" src="mary-pascual.github.io/images/456756utykjhkj.png">
 
 
 
