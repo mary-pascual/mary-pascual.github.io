@@ -5,6 +5,7 @@ title: Software Engineering Hopes and Dreams
 date: 2017-01-19
 labels:
   - Software Engineering
+  - Javascript
 ---
 
 I am excited to learn a new type of programming and to learn the concepts and the new technologies that come with learning Software Engineering.  As of right now in my second week of class, my biggest interest in Software Engineering is that we use Javascript instead of Java.  So far, Javascript seems to make more sense when I write code.  Javascript also helps me to practice more on my limited knowledge of Java.
