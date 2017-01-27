@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: Will Anybody Answer Me?
 date: 2017-01-26
-permalink: essays/will-anybody-answer-me.md
 labels:
   - Software Engineering
 ---
