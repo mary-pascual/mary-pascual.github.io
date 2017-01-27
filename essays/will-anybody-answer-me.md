@@ -3,8 +3,7 @@ layout: essay
 type: essay
 title: Will Anybody Answer Me?
 date: 2017-01-26
-permalink: http://stackoverflow.com/questions/41860899/write-a-function-that-takes-2-colors-as-arguments-and-returns-the-average-color
-permalink: http://stackoverflow.com/questions/41836658/enum-constants-behaving-differently-in-c-and-c/
+permalink: http://stackoverflow.com/questions/41860899/write-a-function-that-takes-2-colors-as-arguments-and-returns-the-average-color http://stackoverflow.com/questions/41836658/enum-constants-behaving-differently-in-c-and-c/
 labels:
   - Software Engineering
 ---
