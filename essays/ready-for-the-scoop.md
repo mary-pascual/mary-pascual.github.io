@@ -7,6 +7,8 @@ labels:
   - Software Engineering
 ---
 
+<img class="ui image" src="http://mary-pascual.github.io/images/configuration-management-process-890x675.jpg">
+
 ## What in the World is IntelliJ and ESLint?
 
 IntelliJ is the Java integrated development environment that my software engineering class currently uses to code.  With it, we are given an easier time to write a code and save it to our GitHub in order for other people to see our code.  ESLint is a tool we use in IntelliJ that is designed to check a user's code.  For example, if we use "let" when the item is only used once, it will give us an error message to change "let" to "const" instead.
