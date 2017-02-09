@@ -7,7 +7,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui image" src="http://mary-pascual.github.io/images/configuration-management-process-890x675.jpg">
+<img class="ui image" src="http://mary-pascual.github.io/images/EpP2iMz2XJ-uLM9dhj4MqDl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9.jpg">
 
 ## What in the World is IntelliJ and ESLint?
 
