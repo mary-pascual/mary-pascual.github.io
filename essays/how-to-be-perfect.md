@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Learning How to Create a Perfect Website (And Learning How to Appease Yourself When It Doesn't Work Out The Way You Planned)
-date: 2017-02-023
+date: 2017-02-23
 labels:
   - Software Engineering
   - UI Frameworks
