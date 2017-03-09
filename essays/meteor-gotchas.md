@@ -25,6 +25,7 @@ As said before in my other essays, I am a type A, and therefore, if one thing go
 Another issue I faced was trying to get my home-page.html to get it's data from Contacts.js instead of putting the data in the html page itself.  However, when I deleted the contacts in my home-page.html and put that it needed to get the data from Contacts.js instead, I got a blank page.  I freaked out.  How was I supposed to get all my data back?  I tried to double check everything, but everything seemed fine.  I looked at the solution, but it seemed to be exactly alike.  However, then I discovered this:
 
 ```
+
 {{#each contact in contactList}} 
 
 ```
