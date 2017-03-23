@@ -9,4 +9,4 @@ labels:
 ---
 # Welcome to Meteor
 
-<img class="ui image" src="https://techiecouple.azurewebsites.net/content/images/2016/08/local_meteor.png">
+<img class="ui image" src="https://msdnshared.blob.core.windows.net/media/2016/01/64.png">
