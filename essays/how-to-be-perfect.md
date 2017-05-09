@@ -10,13 +10,26 @@ labels:
 
 # Time for Change!
 
-After months of learning different languages in order to get a program to do something as simple as adding together two numbers a user inputs, it's nice when the professor offers a change of scenery by introducing a subject that more than half of the computer science majors were looking forward to: website design.
-
-When computer science/computer engineering students first hear that they're going to learn how to create their very own website, their excitement grows.  Creating a website is much different than the programming they have learning in their Introduction to Computer Science classes.  Instead of creating a random program that the student would have never created on their own, the student gets to use their imagination and see how creative they can be.
+After months of learning different languages in order to get a program to do something as simple as adding together two numbers a user inputs, it's nice when the professor offers a change of scenery by introducing a subject that more than half of the computer science majors were looking forward to: website design.  Unlike programming, website design allows us to satisfy our creative side.  For once in our lives, it felt as though we were creating what we wanted to create and that we weren't just doing it to complete an assignment.
 
 ## Creating a Website: Idealism vs Realism
 
-The beautiful thing about it is that creating a websites (especially when Semantic UI is used) is very straight forward.  With every program a student types and every change a student makes, they can easily see the results of their work, which makes it easier to know what is working and what should be changed.  Also, Semantic ui is very straight forward.  For example, I tried to recreate the [Breakout Waikiki website](https://www.breakoutwaikiki.com/).  Like most websites, this one included a top menu, and because I was creating the website with Semantic UI, I could easily create the top menu with the class "ui menu" and then add another class called "items" under it to list the things I want in that menu.
+The beautiful thing about creating a website is that it's very straight forward and with some patience, even a beginner can make it look professional.  Through my own experience, I learned that [Semantic UI](https://semantic-ui.com/) is a good starting part because the website displays the code and the results of the code.  I also discovered that I could easily see the results of my work whenever I made even the slightest change so it makes it easier to know what is working and what needs be changed.
+
+When I tested out Semantic UI, I tried to recreate the [Breakout Waikiki website](https://www.breakoutwaikiki.com/).  Like most websites, this one included a top menu, and because I was creating the website with Semantic UI, I could easily create the top menu with the class "ui menu", add another class called "items" under it to list the things I want in that menu, and change the font color to white by changing the class name to "ui borderless inverted menu" as show below.
+
+```
+<div class="ui borderless inverted menu">
+    <a class="item"><h1><img src="https://static1.squarespace.com/static/55e7ec25e4b0936846c7ec12/t/564100f8e4b07ea8de5407f0/1484027202845/?format=1500w" width="268px"></h1></a>
+    <a class="right item">HOME</a>
+    <a class="item">BOOK A GAME</a>
+    <a class="item">PRESS</a>
+    <a class="item">GIFT CARD</a>
+    <a class="item">PARKING</a>
+    <a class="item">FAQ</a>
+    <a class="item">WORK HERE!</a>
+  </div>
+```
 
 Well, that sounds pretty straight forward compared to the type of programs done before.  So what could possibly be the downfall?  The downfall is that it's difficult to copy a website exactly as I have learned through the Breakout Waikiki website (and later in the [Murphy's Bar and Grill website](http://murphyshawaii.com/).  For the Breakout Waikiki website, I almost quit trying to recreate the website because I could not match the font style.  No matter how long I search and no matter how many different styles I tried, I could not recreate the font.  If you're like me and need to have everything be exactly alike (especially when it's close to being alike!), then let me give you some personal advice from one type A to another: let it go.
 
