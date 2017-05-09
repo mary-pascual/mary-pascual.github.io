@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "mary-pascual",
-        "url": "http://mary-pascual.github.io"
+        "url": "https://github.com/mary-pascual"
       },
       {
         "network": "linkedin",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "IT, Security, Writing"
+      "name": "IT, Web Design, Writing"
     }
   ],
   "skills": [
@@ -42,6 +42,13 @@
     },
     {
       "name": "Javascript",
+      "level": "Beginner",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "C/C++",
       "level": "Beginner",
       "keywords": [
         ""
@@ -60,7 +67,10 @@
         "ICS 111",
         "ICS 141",
         "ICS 211",
-        "ICS 241"
+        "ICS 212",
+        "ICS 241",
+        "ICS 311",
+        "ICS 314"
       ]
     }
   ],
@@ -95,8 +105,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Available upon request"
     }
   ]
 }
