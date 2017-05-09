@@ -16,8 +16,7 @@ After months of learning different languages in order to get a program to do som
 
 The beautiful thing about creating a website is that it's very straight forward and with some patience, even a beginner can make it look professional.  Through my own experience, I learned that [Semantic UI](https://semantic-ui.com/) is a good starting part because the website displays the code and the results of the code.  I also discovered that I could easily see the results of my work whenever I made even the slightest change so it makes it easier to know what is working and what needs be changed.
 
-When I tested out Semantic UI, I tried to recreate the [Breakout Waikiki website](https://www.breakoutwaikiki.com/).  Like most websites, this one included a top menu, and because I was creating the website with Semantic UI, I could easily create the top menu with the class "ui menu", add another class called "items" under it to list the things I want in that menu, and change the font color to white by changing the class name to "ui borderless inverted menu" as show below.
-
+When I tested out Semantic UI, I tried to recreate the [Breakout Waikiki website](https://www.breakoutwaikiki.com/).  Like most websites, this one included a top menu, and because I was creating the website with Semantic UI, I could easily create the top menu with the class "ui menu", add another class called "items" under it to list the things I want in that menu, and change the font color to white by changing the class name to "ui borderless inverted menu" as show below.  In the end, [my website](https://github.com/mary-pascual/breakout) looked pretty similar to the original website to the point where my friends honestly thought it was the real one!
 ```
 <div class="ui borderless inverted menu">
     <a class="item"><h1><img src="https://static1.squarespace.com/static/55e7ec25e4b0936846c7ec12/t/564100f8e4b07ea8de5407f0/1484027202845/?format=1500w" width="268px"></h1></a>
@@ -30,8 +29,7 @@ When I tested out Semantic UI, I tried to recreate the [Breakout Waikiki website
     <a class="item">WORK HERE!</a>
   </div>
 ```
-
-Well, that sounds pretty straight forward compared to the type of programs done before.  So what could possibly be the downfall?  The downfall is that it's difficult to copy a website exactly as I have learned through the Breakout Waikiki website (and later in the [Murphy's Bar and Grill website](http://murphyshawaii.com/).  For the Breakout Waikiki website, I almost quit trying to recreate the website because I could not match the font style.  No matter how long I search and no matter how many different styles I tried, I could not recreate the font.  If you're like me and need to have everything be exactly alike (especially when it's close to being alike!), then let me give you some personal advice from one type A to another: let it go.
+For the longest time, I was on cloud nine thanks to Semantic UI to the point where I worshipped it.  Then, reality struck.  Though I succeeded in tricking people to think my website was the real website, it's difficult to copy a website exactly.  When I first started the Breakout Waikiki website, I almost quit because I could not match the font style and correctly size the background and logo.  Frantically, I played around with every different font I could find and with every different size I could come up with, but it was never an exact replica.
 
 ## Is Semantic UI the Only Way?
 
