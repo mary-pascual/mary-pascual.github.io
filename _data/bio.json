@@ -93,6 +93,22 @@
       "startDate": "Aug 2014",
       "endDate": "Present",
       "summary": "Assist the Sunday School teachers for three to four years",
+    },
+    {
+      "organization": "Kappa Kappa Gamma",
+      "website": "http://creighton.kappa.org/ and https://www.kappakappagamma.org/kappa/",
+      "position": "Volunteer",
+      "startDate": "January 2015",
+      "endDate": "May 2016",
+      "summary": "Volunteered for different fundraisers to raise money for Reading is Fundamental like selling cupcakes",
+    },
+    {
+      "organization": "Alpha Phi Omega",
+      "website": "http://www.apo.org/Home",
+      "position": "Volunteer",
+      "startDate": "August 2014",
+      "endDate": "December 2014",
+      "summary": "Volunteered for different events held throughout the university",
     }
   ],
   "awards": [
@@ -105,7 +121,8 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
