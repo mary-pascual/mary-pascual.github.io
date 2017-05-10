@@ -39,4 +39,9 @@ Though HTML and CSS are very straight forward, it gives the user the result of a
     <a class="right item">HOME</a>
   </div>
 ```
-<img class="ui image" src="http://myindefiniteworld.com/blog/wp-content/uploads/2011/10/FoxTrot-2011-10-02.gif" style="width: 600px; height: 400px">
+
+## Don't get too Cocky
+
+Though all three tools are simple to use, don't be fooled.  Website design requires a lot of time and patience, which was tested when I first started the Breakout Waikiki website.  I almost gave up.  Though I tried with a variety of numbers, I could never seem to get the size of the logo or background image right.  After many hours, I gave up and instead, tried to find the exact font family that the website used.  After many more hours spent on that, I finally realized why people hire others to build websites.  Website design requires simple languages.  However, like all of the other coding languages that I've learned, I also need to put in the time and have the patience in order to get the result that I desire.
+
+<img class="ui image" src="http://myindefiniteworld.com/blog/wp-content/uploads/2011/10/FoxTrot-2011-10-02.gif" style="width: 425px; height: 198px">
