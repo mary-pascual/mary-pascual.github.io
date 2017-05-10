@@ -14,7 +14,9 @@ After months of learning different languages in order to get a program to do som
 
 ## How to go from Simple to Professional
 
-The beautiful thing about creating a website is that it's very straight forward because compared to other languages, HTML is very simple.  For example, if a user needed a header, image, and link in his website, he would just have to type
+The beautiful thing about creating a website is that it's very straight forward because compared to other languages, HTML is very simple.  Personally, when I was first introduced to the language, I couldn't believe how quickly I could pick it up.  Unlike other programming languages that feel like a foreign language, this language feels as though it's in English.  It's also a difficult language to make mistakes in because a user can automatically see the results of their program unlike other programs where a user has to atempt to pinpoint the exact location that's causing a function not to work (which could be located in a different function).
+
+With HTML if a user needed a header, image, and link in his website, he would just have to type
 ```
 <body> //body of the website
 <h2>Table of Contents</h2> //header with number being size
@@ -30,11 +32,11 @@ body{
   color: darkblue;
 }
 ```
-Though HTML and CSS are very straight forward, it gives the user the result of a website created in the 1990s.  However, if we throw in [Semantic UI](https://semantic-ui.com/), we start to see the beginning of a typical website we'd see today.  When I tested out Semantic UI, I tried to recreate the [Breakout Waikiki website](https://www.breakoutwaikiki.com/).  Like most websites, this one included a top menu.  Because I was creating the website with Semantic UI, I could easily create a similar top menu with the class "ui borderless inverted menu", which only affects the top menu and not the whole body.  In the end, [my website](https://github.com/mary-pascual/breakout) looked pretty similar to the original website to the point where my friends honestly thought it was the real one!
+Though HTML and CSS are very straight forward, it gives the user the result of a plain website created in the 1990s.  However, if we throw in [Semantic UI](https://semantic-ui.com/), we start to see the beginning of a typical website we'd see today.  When I tested out Semantic UI, I tried to recreate the [Breakout Waikiki website](https://www.breakoutwaikiki.com/).  Like most websites, this one included a top menu.  Because I was creating the website with Semantic UI, I could easily create a similar top menu with the class "ui borderless inverted menu", which only affects the top menu and not the whole body.  In the end, [my website](https://github.com/mary-pascual/breakout) looked pretty similar to the original website to the point where my friends honestly thought it was the real one.
 ```
 <div class="ui borderless inverted menu">
     <a class="item"><h1><img src="https://static1.squarespace.com/static/55e7ec25e4b0936846c7ec12/t/564100f8e4b07ea8de5407f0/1484027202845/?format=1500w" width="268px"></h1></a>
     <a class="right item">HOME</a>
   </div>
 ```
-<img class="ui image" src="http://myindefiniteworld.com/blog/wp-content/uploads/2011/10/FoxTrot-2011-10-02.gif" style="width: 400px; height: 200px">
+<img class="ui image" src="http://myindefiniteworld.com/blog/wp-content/uploads/2011/10/FoxTrot-2011-10-02.gif" style="width: 600px; height: 400px">
