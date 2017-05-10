@@ -8,7 +8,7 @@ date: 2017
 summary: A site where University of Hawaii at Manoa students can buy or sell items to their classmates
 ---
 # Manoa Flea Market
-<img width="480x" height="240px" src="https://manoa-flea-market.github.io/images/LandingPage 7.17.42 PM.png"> <img width="480px" height="240px" src="https://manoa-flea-market.github.io/images/Homepage.png">
+<img class="ui medium floated rounded image" src="https://manoa-flea-market.github.io/images/LandingPage 7.17.42 PM.png"> <img class="ui medium floated rounded image" src="https://manoa-flea-market.github.io/images/Homepage.png">
 
 College students 
 
