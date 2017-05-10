@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/Waikiki_Trolley_(34874).png
-title: A Look of Hawaii for Japanese Tourists
-permalink: projects/hawaii-tour
-date: 2015
-summary: A tour of Hawaii for the Japanese tourists.
+image: images/logo.png
+title: Manoa Flea Market
+permalink: projects/manoa-flea-market
+date: 2017
+summary: A site where University of Hawaii at Manoa students can buy or sell items to their classmates
 ---
 <img class="ui image" src="https://mary-pascual.github.io/images/91601886 (1).png">
 
