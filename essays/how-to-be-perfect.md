@@ -13,7 +13,7 @@ labels:
 After months of learning different languages in order to get a program to do something as simple as adding together two numbers a user inputs, it's nice when the professor offers a change of scenery by introducing a subject that more than half of the computer science majors were looking forward to: website design.  Unlike programming, website design allows us to satisfy our creative side.  For once in our lives, it felt as though we were creating what we wanted to create and that we weren't just doing it to complete an assignment.
 
 ## How to go from Simple to Professional
-
+<img class="ui medium right floated rounded image" src="http://myindefiniteworld.com/blog/wp-content/uploads/2011/10/FoxTrot-2011-10-02.gif">
 The beautiful thing about creating a website is that it's very straight forward because compared to other languages, HTML is very simple.  Personally, when I was first introduced to the language, I couldn't believe how quickly I could pick it up.  Unlike other programming languages that feel like a foreign language, this language feels as though it's in English.  It's also a difficult language to make mistakes in because a user can automatically see the results of their program unlike other programs where a user has to atempt to pinpoint the exact location that's causing a function not to work (which could be located in a different function).
 
 With HTML if a user needed a header, image, and link in his website, he would just have to type
@@ -43,5 +43,3 @@ Though HTML and CSS are very straight forward, it gives the user the result of a
 ## Don't get too Cocky
 
 Though all three tools are simple to use, don't be fooled.  Website design requires a lot of time and patience, which was tested when I first started the Breakout Waikiki website.  I almost gave up.  Though I tried with a variety of numbers, I could never seem to get the size of the logo or background image right.  After many hours, I gave up and instead, tried to find the exact font family that the website used.  After many more hours spent on that, I finally realized why people hire others to build websites.  Website design requires simple languages.  However, like all of the other coding languages that I've learned, I also need to put in the time and have the patience in order to get the result that I desire.
-
-<img class="ui image" src="http://myindefiniteworld.com/blog/wp-content/uploads/2011/10/FoxTrot-2011-10-02.gif" style="width: 567px; height: 293px; align: center">
