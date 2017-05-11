@@ -23,6 +23,6 @@ for (i = 0; i< max; i + 1) {
 ```
 The difference between the two is that the second has spaces around the parantheses and has to incremement i by doing i + 1 instead of i++.  Do these changes change the result of my solution?  No, but apparently, it's important to ESLint.
 
+<img class="ui medium right floated rounded image" src="http://img.scoop.it/EpP2iMz2XJ-uLM9dhj4MqDl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9">
 ### What Does This Mean?
-<img class="ui large right floated rounded image" src="http://img.scoop.it/EpP2iMz2XJ-uLM9dhj4MqDl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9">
 Would I rather work without ESLint?  Yes.  However, I do think ESLint is a useful tool.  While it's desire to be nit-picky makes me roll my eyes, it needs to be like that.  By doing so, it helps me to stop making common errors that may not do anything to what my code print in order to become a better software engineer.  For all of my computer science classes, I have learned it's better to write a code as nit-picky as possible.  I have not been doing that so maybe now I can get into that good habit.
