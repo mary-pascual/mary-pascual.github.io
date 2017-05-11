@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Different Approach to Programming
+title: How I Learned to Love Programming Again
 date: 2017-01-18
 labels:
   - Software Engineering
@@ -14,6 +14,7 @@ I was introduced to Java.  While programming in Java for both ICS 111 and 211, I
 Reality hit me when I realized that in order to graduate with a Computer Science degree, I would need to take more programming classes.  I was not looking forward to programming in Java again.  However, when the Spring semester began, I was surprised to learn that I would not be programming with Java but with it's distant cousin, Javascript.  While starting to code in Javascript, I waited for the feeling of despair to hit me when I wouldn't be able to understand the programming.
 
 ## It Never Came
+<img class="ui medium right floated rounded image" src="https://coderanch.com/t/456377/a/401/javascript-java.jpg">
 As soon as I started, I realized that I could understand what I was doing.  It may have helped with the Java background that I previously learned, but I think it had to do more so with the way Javascript works.  In my opinion, Java had a bunch of fancy codes in order to get a simple task done.  Javascript, on the other hand, seemed to go more hand-in-hand with my way of thinking how a code works and should be written.
 
 I have met with people who hate Javascript and people who love Javascript.  I think one of the reasons why Software Engineers should learn Javascript is because maybe they will learn how to program better by learning it a different way.  It's almost like looking at programming with "fresh eyes".  Java and Javascript might be similar, but people still have their preferences, which they won't find unless if they're introduced to different types of programming.  Another reason is because it is pratical.  Not all programming jobs work with Java.  Some work with Javascript.  Others work with Python.  Therefore, it makes sense to be introduced to a variety of different programs in order to be prepared for future jobs.
