@@ -21,7 +21,7 @@ Instead, we were expected to type
 ```
 for (i = 0; i< max; i + 1) {
 ```
-The difference between the two is that the second has spaces around the parantheses and has to incremement i by doing i + 1 instead of i++.  Do these changes change the result of my solution?  No, but apparently, it's important to ESLint.
+The difference between the two is that the second has spaces around the parentheses and has to increment i by doing i + 1 instead of i++.  Do these changes change the result of my solution?  No, but apparently, it's important to ESLint.
 
 <img class="ui medium right floated rounded image" src="http://img.scoop.it/EpP2iMz2XJ-uLM9dhj4MqDl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9">
 ### What Does This Mean?

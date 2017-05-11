@@ -14,7 +14,7 @@ After months of learning different languages in order to get a program to do som
 
 ## How to go from Simple to Professional
 <img class="ui large right floated rounded image" src="http://myindefiniteworld.com/blog/wp-content/uploads/2011/10/FoxTrot-2011-10-02.gif">
-The beautiful thing about creating a website is that it's very straight forward because compared to other languages, HTML is very simple.  Personally, when I was first introduced to the language, I couldn't believe how quickly I could pick it up.  Unlike other programming languages that feel like a foreign language, this language feels as though it's in English.  It's also a difficult language to make mistakes in because a user can automatically see the results of their program unlike other programs where a user has to atempt to pinpoint the exact location that's causing a function not to work (which could be located in a different function).
+The beautiful thing about creating a website is that it's very straight forward because compared to other languages, HTML is very simple.  Personally, when I was first introduced to the language, I couldn't believe how quickly I could pick it up.  Unlike other programming languages that feel like a foreign language, this language feels as though it's in English.  It's also a difficult language to make mistakes in because a user can automatically see the results of their program unlike other programs where a user has to attempt to pinpoint the exact location that's causing a function not to work (which could be located in a different function).
 
 With HTML if a user needed a header, image, and link in his website, he would just have to type
 ```
