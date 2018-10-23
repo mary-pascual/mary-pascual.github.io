@@ -4,16 +4,8 @@
     "label": "Student",
     "picture": "http://mary-pascual.github.io/images/FullSizeRender.jpg",
     "email": "mekp@hawaii.edu",
-    "phone": "808-218-5099",
     "website": "https://mary-pascual.github.io",
     "summary": "I am studying for a B.A. in Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
-    "location": {
-      "address": "",
-      "postalCode": "96789",
-      "city": "Mililani",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
     "profiles": [
       {
         "network": "github",
